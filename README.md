@@ -1,6 +1,8 @@
 # Profile overview
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=marcosadriano05&show_icons=true&title_color=6A5ACD&text_color=000000&icon_color=483D8Bbg_color=FFFAFA&cache_seconds=2300">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=marcosadriano05&show_icons=true&title_color=6A5ACD&text_color=000000&icon_color=483D8Bbg_color=FFFAFA&cache_seconds=2300">
+</div>
 
 ### About me
 
@@ -9,9 +11,6 @@
 <p>
 My name is Marcos Adriano, I'm a web developer and I try to improve my skills a little more every day. I hope to be able to contribute to the dev community and relocate myself in my career. 
 </p>
-
-<br>
-<hr>
 
 ### Activities
 - 🔭 I’m currently working on projects with friends.
