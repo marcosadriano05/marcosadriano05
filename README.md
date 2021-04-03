@@ -8,11 +8,29 @@
 </a>
 <!--(https://www.instagram.com/marcos.a05/?hl=pt-br)-->
 
-## About me
-I'm a beginner programmer who hopes to become a great web developer.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=marcosadriano05&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+
+### About me
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Marcos+Adriano&color=f8efd4&style=for-the-badge&logo=GitHub">
+
+<p>
+My name is Marcos Adriano, I'm a web developer and I try to improve my skills a little more every day. I hope to be able to contribute to the dev community and relocate myself in my career. 
+</p>
+
+<hr>
+
+### Activities
 - 🔭 I’m currently working on projects with friends.
-- 🌱 I’m currently learning Javascript, HTML and CSS. I'm starting too into React library and Next.js framework.
-- 👯 I'm available to be part of frontend projects.
+- 🌱 I’m currently learning Javascript, HTML and CSS. I'm starting too into ReactJs library and NodeJs.
+- 👯 I'm available to for jobs and open source projects.
+
+### Technologies
+- HTML
+- CSS
+- JavaScript
+- ReactJs
+- NodeJs
 <!--
 **marcosadriano05/marcosadriano05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
