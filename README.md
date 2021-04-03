@@ -18,6 +18,7 @@
 My name is Marcos Adriano, I'm a web developer and I try to improve my skills a little more every day. I hope to be able to contribute to the dev community and relocate myself in my career. 
 </p>
 
+<br>
 <hr>
 
 ### Activities
