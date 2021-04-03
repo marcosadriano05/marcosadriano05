@@ -1,7 +1,7 @@
 # Hi, i'm Marcos! 👋
 
 ## Contact
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-adriano-62632715b/)](https://www.linkedin.com/in/marcos-adriano-62632715b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosadriano05/)](https://www.linkedin.com/in/marcosadriano05/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosadriano740@gmail.com)](mailto:marcosadriano740@gmail.com)
 <a href="https://www.instagram.com/marcos.a05/?hl=pt-br" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="85" />
