@@ -8,18 +8,13 @@
 My name is Marcos Adriano, I'm a web developer and I try to improve my skills a little more every day. I hope to be able to contribute to the dev community and relocate myself in my career. 
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosadriano05&show_icons=true&title_color=6A5ACD&text_color=000000&icon_color=483D8Bbg_color=FFFAFA&cache_seconds=2300">
-</div>
-
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosadriano05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosadriano05&show_icons=true&title_color=6A5ACD&text_color=000000&icon_color=483D8Bbg_color=FFFAFA&cache_seconds=2300)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Activities
 - 🔭 I’m currently working on projects with friends.
 - 🌱 I’m currently learning Javascript, HTML and CSS. I'm starting too into ReactJs library and NodeJs.
 - 👯 I'm available to for jobs and open source projects.
-
----
 
 ### Technologies
 - HTML
@@ -27,12 +22,6 @@ My name is Marcos Adriano, I'm a web developer and I try to improve my skills a 
 - JavaScript
 - ReactJs
 - NodeJs
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosadriano05&layout=compact">
-</div>
-
----
 
 ### Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosadriano05/)](https://www.linkedin.com/in/marcosadriano05/)
