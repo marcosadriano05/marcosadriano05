@@ -28,6 +28,7 @@ My name is Marcos Adriano, I'm a web developer and I try to improve my skills a 
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - ReactJs
 - NodeJs
 
