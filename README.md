@@ -20,8 +20,8 @@ My name is Marcos Adriano, I'm a web developer and I try to improve my skills a 
 </div>
 
 ### :computer: Activities
-- 🔭 I’m currently working on projects with friends.
-- 🌱 I’m currently learning Javascript, HTML and CSS. I'm starting too into ReactJs library and NodeJs.
+- 🔭 I’m currently working on Logique Sistemas.
+- 🌱 I'm often studying nodejs, java and frontend
 - 👯 I'm available to for jobs and open source projects.
 
 ### :rocket: Technologies
