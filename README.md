@@ -32,7 +32,7 @@ My name is Marcos Adriano, I'm a web developer and I try to improve my skills a 
 - ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 - ![Angular](https://img.shields.io/badge/-Angular-red?style=plastic&logo=angularjs)
 - ![Node](https://img.shields.io/badge/-Node-black?style=plastic&logo=Node.js)
-- ![Java](https://img.shields.io/badge/-java-black?style=plastic&logo=java&logoColor=orange)
+- ![Java](https://img.shields.io/badge/-Java-black?style=plastic&logo=java&logoColor=orange)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightcyan?style=plastic&logo=postgresql)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
