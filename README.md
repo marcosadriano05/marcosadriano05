@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Marcos+Adriano&color=AFEEEE&style=for-the-badge&logo=GitHub">
 
 <p>
-My name is Marcos Adriano, I'm a web developer and I try to improve my skills a little more every day. I hope to be able to contribute to the dev community and relocate myself in my career. 
+My name is Marcos Adriano, I'm a web developer and I try to improve my skills a little more every day. I hope to be able to contribute to the dev community. 
 </p>
 
 ### :chart_with_upwards_trend: Statitics Cards
