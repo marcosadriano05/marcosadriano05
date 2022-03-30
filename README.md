@@ -10,7 +10,7 @@ My name is Marcos Adriano, I'm a web developer and I try to improve my skills a 
 
 
 - :briefcase: I'm current work with Javascript and Java technologies.
-- :books: I'm current leraning Rust and its ecosystem.
+- :books: I'm current learning Rust and its ecosystem.
 
 ### :chart_with_upwards_trend: Statitics Cards
 
