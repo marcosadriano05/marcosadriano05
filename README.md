@@ -16,7 +16,7 @@ My name is Marcos Adriano, I'm a web developer and I try to improve my skills a 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosadriano05&layout=compact">
+    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosadriano05&layout=compact&hide=css,html,scss,ejs">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=175 src="https://github-readme-stats.vercel.app/api?username=marcosadriano05&show_icons=true&title_color=6A5ACD&text_color=000000&icon_color=483D8Bbg_color=FFFAFA&cache_seconds=2300">
