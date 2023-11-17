@@ -12,17 +12,6 @@ My name is Marcos Adriano, I'm a web developer and I try to improve my skills a 
 - :briefcase: I'm current work with Javascript and Java technologies.
 - :books: I'm current learning Rust and its ecosystem.
 
-### :chart_with_upwards_trend: Statitics Cards
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosadriano05&layout=compact&hide=css,html,scss,ejs">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=175 src="https://github-readme-stats.vercel.app/api?username=marcosadriano05&show_icons=true&title_color=6A5ACD&text_color=000000&icon_color=483D8Bbg_color=FFFAFA&cache_seconds=2300">
-  </a>
-</div>
-
 ### :rocket: Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
