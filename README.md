@@ -8,9 +8,9 @@
 My name is Marcos Adriano, I'm a web developer and I try to improve my skills a little more every day. I hope to be able to contribute to the dev community.
 </p>
 
-
-- :briefcase: I'm current work with Javascript and Java technologies.
-- :books: I'm current learning Rust and its ecosystem.
+### Public profiles
+- [Linkedin](https://www.linkedin.com/in/marcosadriano05/): Professional profile with informations about my carreer.
+- [Exercism](https://exercism.org/profiles/marcosadriano05): Some exercises to show logical programming problems solved, with promblems classified as easey, medium and hard.
 
 ### :rocket: Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -26,7 +26,3 @@ My name is Marcos Adriano, I'm a web developer and I try to improve my skills a 
 ![Rust](https://img.shields.io/badge/-Rust-white?style=plastic&logo=rust&color=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightcyan?style=plastic&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-
-### :mailbox_with_mail: Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosadriano05/)](https://www.linkedin.com/in/marcosadriano05/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosadriano740@gmail.com)](mailto:marcosadriano740@gmail.com)
